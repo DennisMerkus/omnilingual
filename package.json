@@ -1,0 +1,24 @@
+{
+  "name": "omnilingual",
+  "version": "0.1.0",
+  "description": "Language and internationalization codes and utilities for TypeScript",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DennisMerkus/omnilingual.git"
+  },
+  "author": "Dennis Merkus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DennisMerkus/omnilingual/issues"
+  },
+  "homepage": "https://github.com/DennisMerkus/omnilingual#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.1",
+    "typescript": "^3.9.7"
+  }
+}
